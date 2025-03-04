@@ -4,6 +4,6 @@
 <p align="center">
     	<a href="https://discord.gg/Wbg4sT632Q"><img width="5%" src="https://github.com/user-attachments/assets/32ea7e08-0de3-4d95-b19b-3a0ef4cef049" alt="Discord"></a>
     	&nbsp;&nbsp;&nbsp;
-    	<a href="https://ethereal-workshop.github.io"><img width="4%" src="https://github.com/user-attachments/assets/e56e9e34-0ab6-442a-bb03-938d98706ece" alt="Website"></a>
+    	<a href="https://etherealwork.shop"><img width="4%" src="https://github.com/user-attachments/assets/e56e9e34-0ab6-442a-bb03-938d98706ece" alt="Website"></a>
 </p>
 </p>
